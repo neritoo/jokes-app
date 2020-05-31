@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.gavilan</groupId>
     <artifactId>jokes-app</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <name>jokes-app</name>
     <description>Jokes app consuming API Chuck Norris to generate random joke quotes.</description>
 
@@ -63,7 +63,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/neritoo/jokes-app.git</developerConnection>
-      <tag>jokes-app-0.0.2</tag>
+      <tag>HEAD</tag>
   </scm>
 
 </project>
